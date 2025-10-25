@@ -1,3 +1,7 @@
 *.sql linguist-language=SQL
 *.pdf linguist-documentation
 final_exam_dbcourse.sql linguist-language=SQL
+*.pdf linguist-detectable=false
+*.sql linguist-detectable=true
+
+
