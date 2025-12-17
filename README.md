@@ -1,7 +1,7 @@
 ## Online Food Delivery Database Management System Project
 ## Date: 2025-10-07
 ## Prepared by: Çiçek Akkaya
-## The grade of the Final Exam Project: 98/100
+## Grade of the Final Exam Project: 98/100
 ##
 ## This is Çiçek Akkaya's Final Exam Project of Database Management Course in Data Science and Artificial Intelligence Master's Degree Program of European Higher Education Institute, Malta.
 ## Please, browse the Online_Food_Delivery_DBMS.pdf file for explanation of all experiments when analyzing, designing and implementing the database.
