@@ -3,9 +3,9 @@
 ## Prepared by: Çiçek Akkaya
 ## Grade of the Final Exam Project: 98/100
 ##
-## This is Çiçek Akkaya's Final Exam Project of Database Management Course in Data Science and Artificial Intelligence Master's Degree Program of European Higher Education Institute, Malta.
-## Please, browse the Online_Food_Delivery_DBMS.pdf file for explanation of all experiments when analyzing, designing and implementing the database.
-## Please, browse the final_exam_dbcourse.sql file for all SQL codes for implementing the database and querying.
+## This is Çiçek Akkaya's final exam project of Database Management course in Data Science and Artificial Intelligence Master's Degree Program of European Higher Education Institute, Malta.
+## Please browse the Online_Food_Delivery_DBMS.pdf file for explanation of all experiments when analyzing, designing and implementing the database.
+## Please browse the final_exam_dbcourse.sql file for all SQL codes for implementing the database and querying.
 ##
 ## In the Online Food Delivery Database Management System project, I have completed the tasks for the the database which has the features like:
 ##
